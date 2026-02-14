@@ -1,0 +1,7 @@
+{
+  "name": "Node#禪時匯 (ZenTime Exchange) - 時間銀行",
+  "description": "一個去中心化的時間銀行專案。我們的首個試點計畫「看見旅程」讓使用者能用舊眼鏡換取日本免費住宿。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
